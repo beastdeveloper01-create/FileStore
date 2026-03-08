@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 8055522383
 
 MSG_EFFECT = 5046509860389126442
 
@@ -14,12 +14,12 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+TOKEN = "8639756375:AAEVx7ZrysVMGpkbhUmR_pDNQUq_e9E5FVI"
+API_ID = "33276508"
+API_HASH = "e0b0092faca018e16c5ad30573290412"
 WORKERS = 5
 
-DB_URI = "mongodb"
+DB_URI = "mongodb+srv://BEAST:beast325boy@cluster0.41adgjw.mongodb.net/?appName=Cluster0"
 DB_NAME = "yato"
 
 FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
